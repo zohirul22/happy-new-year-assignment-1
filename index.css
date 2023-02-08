@@ -63,4 +63,50 @@ small {
 
 /******* button end ******/
 
-/***** header css start *****/
+/***** header css end *****/
+
+/* *******previous****** */
+.previous {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px 150px;
+}
+
+.previous-left {}
+
+.previous-right {
+    padding-left: 50px;
+}
+
+.previous-right h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.previous-right-para {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 24px;
+}
+
+.previous-right p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 8px;
+}
+
+span {
+    color: #16D887;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+/* *******previous****** */
