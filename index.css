@@ -110,3 +110,49 @@ span {
 }
 
 /* *******previous****** */
+
+/******* Plans******** */
+.plans-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    color: #151414;
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.Plans {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 150px;
+}
+
+.single-plans img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.single-plans h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    color: #151414;
+    margin: 14px 0px;
+}
+
+.single-plans p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #737272;
+}
+
+
+
+
+/******* Plans******** */
