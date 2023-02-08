@@ -1,0 +1,66 @@
+/* google font import link */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+/* Universal selector */
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/***** header css start *****/
+.header {
+    background-image: url('images/banner/banner1.png');
+    height: 800px;
+    display: flex;
+}
+
+.header-left {
+    width: 800px;
+}
+
+.header-right {
+    padding: 200px 70px;
+    width: 500px;
+    text-align: right;
+}
+
+.header-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+
+}
+
+.header-para {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin: 25px 0px;
+}
+
+/******* button start ********/
+.btn {
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0px;
+}
+
+small {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.btn:hover {
+    background: #f04805;
+}
+
+/******* button end ******/
+
+/***** header css start *****/
