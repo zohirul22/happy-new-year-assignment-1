@@ -153,6 +153,47 @@ span {
 }
 
 
-
-
 /******* Plans******** */
+/*********** mindset ***********/
+.mindset {
+    background-image: linear-gradient(rgba(255, 0, 0, 0.342), 
+    rgba(255, 255, 0, 0.349)), url("images/watch.png");
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 1100px;
+    height: 300px;
+    border-radius: 8px;
+    margin-top: 100px;
+
+}
+
+.mindset-left {
+    padding-left: 70px;
+    padding-top: 100px;
+}
+
+.mindset-left h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.btn2 {
+    width: 160px;
+    height: 64px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.btn2 small {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    color: #1809ec;
+}
+
+/*********** mindset ***********/
