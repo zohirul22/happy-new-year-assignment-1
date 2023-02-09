@@ -156,8 +156,8 @@ span {
 /******* Plans******** */
 /*********** mindset ***********/
 .mindset {
-    background-image: linear-gradient(rgba(255, 0, 0, 0.342), 
-    rgba(255, 255, 0, 0.349)), url("images/watch.png");
+    background-image: linear-gradient(rgba(255, 0, 0, 0.342),
+            rgba(255, 255, 0, 0.349)), url("images/watch.png");
     background-repeat: no-repeat;
     margin: auto;
     width: 1100px;
@@ -182,7 +182,7 @@ span {
 
 .btn2 {
     width: 160px;
-    height: 64px;
+    height: 55px;
     background-color: aliceblue;
     border-radius: 5px;
     border: 0px;
@@ -197,3 +197,64 @@ span {
 }
 
 /*********** mindset ***********/
+
+/*************** footer************ */
+.footer {
+    background-color: #151414;
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: space-between;
+    height: 300px;
+    padding: 30px 50px;
+}
+
+.left-side {
+    padding: 0px 100px;
+    margin-left: 15px;
+}
+
+.left-side h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 15px;
+}
+
+.left-side p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+
+.social {
+    margin: 30px 0px;
+}
+
+.right-side {
+    padding: 0px 90px;
+}
+
+.right-side h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 15px;
+}
+
+input {
+    background-color: #151414;
+    border: 1px solid rgb(49, 47, 47);
+    border-radius: 5px;
+    margin-bottom: 18px;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    padding: 0px 7px;
+}
+
+/*************** footer************ */
