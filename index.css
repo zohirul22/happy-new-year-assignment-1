@@ -64,6 +64,61 @@ small {
 /******* button end ******/
 
 /***** header css end *****/
+/***** about start end *****/
+
+.about{
+    background-color: #F8F8F8;
+    padding: 20px 30px;
+}
+
+.about h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    color: #151414;
+    margin:50px  0px;
+    text-align: center;
+    text-decoration: underline;
+}
+.about p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin:20px  150px;
+    text-align: center;
+}
+
+.about-info{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cv-btn{
+    margin-left:150px ;
+}
+
+.about-left p{
+    text-align: left;
+}
+.about-left h2{
+    margin-left:150px ;
+    font-size: 45px;
+}
+.about-left h3{
+    margin-left:150px ;
+    font-size: 35px;
+}
+.about-left-para{
+    font-weight: 700;
+    font-size: 50px;
+    color: #151414;
+}
+
+/***** about css end *****/
+
 
 /* *******previous****** */
 .previous {
@@ -85,6 +140,7 @@ small {
     font-size: 40px;
     color: #151414;
     margin-bottom: 24px;
+    
 }
 
 .previous-right-para {
@@ -119,6 +175,7 @@ span {
     color: #151414;
     text-align: center;
     margin: 50px 0px;
+    text-decoration: underline;
 }
 
 .Plans {
@@ -228,6 +285,7 @@ span {
     font-size: 16px;
     color: #FFFFFF;
     margin-bottom: 5px;
+
 }
 
 .social {
